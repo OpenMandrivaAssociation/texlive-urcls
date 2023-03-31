@@ -1,6 +1,6 @@
 Name:		texlive-urcls
 Version:	49903
-Release:	1
+Release:	2
 Summary:	Beamer and scrlttr2 classes and styles for the University of Regensburg
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/urcls

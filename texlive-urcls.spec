@@ -3,7 +3,7 @@ Version:	49903
 Release:	2
 Summary:	Beamer and scrlttr2 classes and styles for the University of Regensburg
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/urcls
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/urcls
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/urcls.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/urcls.doc.r%{version}.tar.xz
